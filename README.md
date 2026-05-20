@@ -1,3 +1,3 @@
 # FlightLight
 site 
-https://appalings03.github.io/FlightLight/#video
+https://appalings03.github.io/FlightLight/
